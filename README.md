@@ -11,15 +11,15 @@ A Simple YouTube Web App Created with react.js [Mini Project]
 
 command to Clone Repo
 
-###  `git clone [repo_url]`
+###  `$ git clone [repo_url]`
 
 Type Following command to install Dependencies
 
-### `npm install`
+### `$ npm install`
 
 Run the command using  
 
-### `npm start`
+### `$ npm start`
 
 # Status
 Next Project ==> in progress 👨‍💻
